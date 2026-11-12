@@ -1,0 +1,18 @@
+hearth/src/main/scala-3/hearth/typed/ExprsScala3.scala
+  h_b5849942126835 762
+hearth/src/main/scala-2/hearth/typed/ExprsScala2.scala
+  h_b5849942126835 539
+hearth-tests/src/test/scala/hearth/typed/ExprsSpec.scala
+  h_b5849942126835 321-328
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "295f228546e4ff9bfbb9eab0bc12246af91cc25d",
+  "prompts": {},
+  "humans": {
+    "h_b5849942126835": {
+      "author": "Felix Chapman <foc@qad.com>"
+    }
+  }
+}
